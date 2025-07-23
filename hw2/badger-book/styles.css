@@ -1,0 +1,17 @@
+html {
+  margin: 1rem
+}
+
+label {
+  margin-left: 1rem;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+.student-info {
+  margin-bottom: 0.3rem; /* 或你想要的数值 */
+  line-height: 1.5;
+  color: black;
+}

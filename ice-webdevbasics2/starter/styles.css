@@ -1,0 +1,39 @@
+/* This is where your CSS goes! */
+table, th, td {
+    border: 1px solid;
+}
+
+td {
+    padding: 4px;
+}
+
+body {
+  background-color: white;
+  text-align: auto;
+}
+
+#recipe-img {
+  width: 30rem;
+  height: auto;
+  border-radius: 2rem;
+}
+
+main {
+  background-color: rgb(132, 240, 206);
+  min-width: 70vw;
+  min-height: 85vh;
+  padding-top: 0;
+  padding-left: 5%;
+  padding-right: 5%;
+  border: 2px solid black;
+  margin: 0 10% 10% 10%;
+  box-shadow: 0 0 20px #3aa0b9;
+  border-radius: 2rem;
+}
+
+#blank-div {
+  width: 2rem;
+  height: 2rem;
+  color: white;
+}
+

@@ -1,0 +1,22 @@
+/* This is where your CSS goes! */
+.image1 {
+  max-width: 400px;
+  height: auto;
+}
+
+.th {
+  text-transform: capitalize;
+}
+
+.table1,th,td {
+  border: 1px solid;
+}
+
+td {
+  padding: 4px;
+}
+
+.tr-red1  {
+  background-color: rgba(228, 48, 48, 0.5);
+  color: rgb(228, 48, 48);
+}
